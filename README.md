@@ -1,4 +1,4 @@
-# ECE-484-Autonomous-Vehicle-
+# AutoPilotPro -- Self-driving GEM Vehicle
 
 
 mp1: Camera based lane detection module in Bird eye view.
